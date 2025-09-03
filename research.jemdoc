@@ -1,0 +1,239 @@
+# jemdoc: menu{MENU}{research.html}, nofooter
+== Research 
+
+~~~
+Our research focuses on wireless and RF technologies for the next-generation wireless system. The uniqueness of our research lies in that we bridge and combine the area of wireless commmunication and signal processing and the area of antenna, RF, microwave, and electromagnetics. Currently, our research is centered on the following areas:
+
+- Reconfigurable Intelligent Surface
+- Electromagnetic Information Theory
+- Integrated Sensing and Communications
+- Ambient Backscatter Communications 
+- Simultaneous Wireless Information and Power Transfer
+- RF Energy Harvesting
+- MIMO Antenna Design
+- Pixel Antenna and Optimization
+- Reconfigurable Antenna Design 
+- Microwave and RF Circuit Design
+- AI for wireless\/antenna\/RF\/microwave\/electromagnetics
+~~~
+
+== Beyond Diagonal Reconfigurable Intelligent Surface (BD-RIS)
+
+~~~
+{}{img_left}{photos/BDRIS.jpg}{alt text}{}{180px}
+~~~
+
+Reconfigurable intelligent surface (RIS) is a promising technology for the 6G communication. It can intelligently adjust the phase shift of each element to reconfigure the wireless environment to enhance the wireless system. Conventional RIS, also known as single-connected RIS, does not connect RIS element with each other and is characterized by a diagonal scattering matrix, which has limited performance.
+
+To breakthrough the limitation, we have proposed beyond diagonal reconfigurable intelligent surface (BD-RIS). BD-RIS connects RIS elements through tunable impedance component, so that it is characterized by a beyond diagonal scattering matrix. Specifically, we have proposed different achitectures including fully/group-connected BD-RIS and different modes including hybrid transmitting and reflecting BD-RIS and multi-sector BD-RIS, which provide a full space coverage and high channel gain, and developed the corresponding algorithms for BD-RIS optimization. We have also prototyped and experimented BD-RIS.
+
+Related publications:
+. B. Peng, K. L. Besser, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, F. S. Poschmann, R. Raghunath, D. Mittleman, V. Jamali, and E. A. Jorswieck, \"RIS-assisted NOMA with partial CSI and mutual coupling: a machine learning approach,\" GLOBECOM 2025 - 2025 IEEE Global Communications Conference, Taipei, Taiwan, 2025.
+ . B. Peng, K. L. Besser, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, F. S. Poschmann, R. Raghunath, D. Mittleman, V. Jamali, and E. A. Jorswieck, \"RISnet: a domain-knowledge driven neural network architecture for RIS optimization with mutual coupling and partial CSI,\" in IEEE Transactions on Wireless Communications, vol. 24, no. 5, pp. 4469-4482, May 2025. \[[https://ieeexplore.ieee.org/document/10875991/ Link]\]
+. H. Li, M. Nerini, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, and B. Clerckx, \"Beyond diagonal reconfigurable intelligent surfaces in wideband OFDM communications: circuit-based modeling and optimizations,\" in IEEE Transactions on Wireless Communications, vol. 24, no. 4, pp. 3623-3636, April 2025. \[[https://ieeexplore.ieee.org/document/10857964/ Link]\]
+. B. Wang, H. Li, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, Z. Cheng, and B. Clerckx, \"A dual-function radar-communication system empowered by beyond diagonal reconfigurable intelligent surface,\" in IEEE Transactions on Communications, vol. 73, no. 3, pp. 1501-1516, March 2025. \[[https://ieeexplore.ieee.org/document/10643599 Link]\]
+. H. Li, M. Nerini, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, and B. Clerckx, \"Wideband modeling and beamforming for beyond diagonal reconfigurable intelligent surfaces,\" 2024 IEEE 25th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Lucca, Italy, 2024, pp. 926-930. \[[https://ieeexplore.ieee.org/document/10694393 Link]\]
+. H. Li, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, Y. Zhang, and B. Clerckx, \"Channel estimation and beamforming for beyond diagonal reconfigurable intelligent surfaces,\" in IEEE Transactions on Signal Processing, vol. 72, pp. 3318-3332, 2024. \[[https://ieeexplore.ieee.org/document/10587164 Link]\]
+. Z. Li, A. Dubey, {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, N. K. Kundu, J. Rao, and R. Murch, \"Radio tomographic imaging with reconfigurable intelligent surfaces,\" in IEEE Transactions on Wireless Communications, vol. 23, no. 11, pp. 15784-15797, Nov. 2024. \[[https://ieeexplore.ieee.org/document/10618967 Link]\]
+. M. Nerini, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, H. Li, M.D. Renzo, and B. Clerckx, \"A universal framework for multiport network analysis of reconfigurable intelligent surfaces,\" in IEEE Transactions on Wireless Communications, vol. 23, no. 10, pp. 14575-14590, Oct. 2024. \[[https://ieeexplore.ieee.org/document/10574199 Link]\]
+. M. Nerini, {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, H. Li, and B. Clerckx, \"Beyond diagonal reconfigurable intelligent surfaces utilizing graph theory: modeling, architecture design, and optimization,\" in IEEE Transactions on Wireless Communications, vol. 23, no. 8, pp. 9972-9985, Aug. 2024. \[[https://ieeexplore.ieee.org/document/10453384 Link]\]
+. H. Li, {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, and B. Clerckx, \"Synergizing beyond diagonal reconfigurable intelligent surface and rate-splitting multiple access,\" in IEEE Transactions on Wireless Communications, vol. 23, no. 8, pp. 8717-8729, Aug. 2024. \[[https://ieeexplore.ieee.org/document/10411856 Link]\]
+. Y. Zhou, Y. Liu, H. Li, Q. Wu, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, and B. Clerckx, \"Optimizing power consumption, energy efficiency and sum-rate using beyond diagonal RIS - a unified approach,\" in IEEE Transactions on Wireless Communications, vol. 23, no. 7, pp. 7423-7438, July 2024. \[[https://ieeexplore.ieee.org/document/10364738 Link]\]
+. M. Nerini, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, and B. Clerckx, "Static grouping strategy design for beyond diagonal reconfigurable intelligent surfaces,\" in IEEE Communications Letters, vol. 28, no. 7, pp. 1708-1712, July 2024. \[[https://ieeexplore.ieee.org/document/10526360 Link]\]
+. Z. Liu, Y. Liu, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, Q. Wu, and Q. Shi, \"Enhancing ISAC network throughput using beyond diagonal RIS,\" in IEEE Wireless Communications Letters, vol. 13, no. 6, pp. 1670-1674, June 2024. \[[https://ieeexplore.ieee.org/document/10495009 Link]\]
+. H. Li, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, M. Nerini, M.D. Renzo, and B. Clerckx, \"Beyond diagonal reconfigurable intelligent surfaces with mutual coupling: modeling and optimization,\" in IEEE Communications Letters, vol. 28, no. 4, pp. 937-941, April 2024. \[[https://ieeexplore.ieee.org/document/10418928 Link]\]
+. H. Li, {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, M. Nerini, and B. Clerckx, \"Reconfigurable intelligent surfaces 2.0: beyond diagonal phase shift matrices,\" in IEEE Communications Magazine, vol. 62, no. 3, pp. 102-108, March 2024. \[[https://ieeexplore.ieee.org/document/10316535 Link]\] {{<font color=red size=+0.5><b>}}*(ESI Highly Cited Paper)*{{</b></font>}}
+. M. Nerini, {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, and B. Clerckx, \"Closed-form global optimization of beyond diagonal reconfigurable intelligent surfaces,\" in IEEE Transactions on Wireless Communications, vol. 23, no. 2, pp. 1037-1051, Feb. 2024. \[[https://ieeexplore.ieee.org/document/10155675 Link]\] {{<font color=red size=+0.5><b>}}*(ESI Highly Cited Paper)*{{</b></font>}}
+. M. Nerini, {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, and B. Clerckx, \"Discrete-value group and fully connected architectures for beyond diagonal reconfigurable intelligent surfaces,\" in IEEE Transactions on Vehicular Technology, vol. 72, no. 12, pp. 16354-16368, Dec. 2023. \[[https://ieeexplore.ieee.org/document/10197228 Link]\]
+. H. Li, {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, and B. Clerckx, \"A dynamic grouping strategy for beyond diagonal reconfigurable intelligent surfaces with hybrid transmitting and reflecting mode,\" in IEEE Transactions on Vehicular Technology, vol. 72, no. 12, pp. 16748-16753, Dec. 2023. \[[https://ieeexplore.ieee.org/document/10159457 Link]\]
+. H. Li, {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, and B. Clerckx, \"Beyond diagonal reconfigurable intelligent surfaces: a multi-sector mode enabling highly directional full-space wireless coverage,\" in IEEE Journal on Selected Areas in Communications, vol. 41, no. 8, pp. 2446-2460, Aug. 2023. \[[https://ieeexplore.ieee.org/document/10158988 Link]\]
+. H. Li, {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, and B. Clerckx, \"Beyond diagonal reconfigurable intelligent surfaces: from transmitting and reflecting modes to single-, group-, and fully-connected architectures,\" in IEEE Transactions on Wireless Communications, vol. 22, no. 4, pp. 2311-2324, April 2023. \[[https://ieeexplore.ieee.org/document/9913356 Link]\] {{<font color=red size=+0.5><b>}}*(ESI Highly Cited Paper)*{{</b></font>}}
+. Z. Li, N. K. Kundu, J. Rao, {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, M. R. Mckay, R. Murch, \"Performance analysis of RIS-assisted communications with element grouping and spatial correlation,\" in IEEE Wireless Communications Letters, vol. 12, no. 4, pp. 630-634, April 2023. \[[https://ieeexplore.ieee.org/document/10018442 Link]\]
+. T. Fang, Y. Mao, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, Z. Zhu, and B. Clerckx, \"Fully connected reconfigurable intelligent surface aided rate-splitting multiple access for multi-user multi-antenna transmission,\" 2022 IEEE International Conference on Communications Workshops (ICC Workshops), Seoul, Korea, Republic of, 2022, pp. 675-680. \[[https://ieeexplore.ieee.org/document/9814551 Link]\]
+. J. Rao, Y. Zhang, S. Tang, Z. Li, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, C. Y. Chiu, and R. Murch, \"A novel reconfigurable intelligent surface for wide-angle passive beamforming,\" in IEEE Transactions on Microwave Theory and Techniques, vol. 70, no. 12, pp. 5427-5439, Dec. 2022. \[[https://ieeexplore.ieee.org/document/9852001 Link]\]
+. N. K. Kundu, Z. Li, J. Rao, {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, M. R. Mckay, and R. Murch, \"Optimal grouping strategy for reconfigurable intelligent surfaces assisted wireless communications,\" in IEEE Wireless Communications Letters, vol. 11, no. 5, pp. 1082-1086, May 2022. \[[https://ieeexplore.ieee.org/document/9729398 Link]\]
+. {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, B. Clerckx, and R. Murch, \"Modeling and architecture design of reconfigurable intelligent surfaces using scattering parameter network analysis,\" in IEEE Transactions on Wireless Communications, vol. 21, no. 2, pp. 1229-1243, Feb. 2022. \[[https://ieeexplore.ieee.org/document/9514409 Link]\] {{<font color=red size=+0.5><b>}}*(ESI Highly Cited Paper)*{{</b></font>}}
+
+
+== Toward Electromagnetic Information Theory: Exploring Novel Antenna Approaches
+
+~~~
+{}{img_left}{photos/EIT.jpg}{alt text}{}{180px}
+~~~
+
+Electromagnetic Information Theory (EIT) is an interdisciplinary framework to design next-generation wireless communications that amalgamates electromagnetic theory, signal processing theory, and information theory. EIT is aimed at conceiving and designing physically consistent communication models, algorithms, and protocols for the transmission and processing of information in communication networks. In simple terms, EIT can be defined as physics-aware information theory and signal processing for communications. Under the framework of EIT, we have actively explored novel antenna technologies to enhance the next-generation wireless systems, including electronically steerable parasitic array radiator (ESPAR) antenna and pixel antennas. 
+
+ESPAR antennas consist of an active antenna and multiple parasitic antennas loaded by tunable reactance and the radiation pattern of ESPAR antennas can be adjusted by tuning the loaded reactance, so that transmit symbol can be modulated in beamspace. Based on this, we have developed two methods based on characteristic mode analysis and pattern correlation decomposition to find the orthogonal beamspace basis for beamspace channel representation, spatial modulation in beamspace to achieve multiplexing gain, bandwidth efficient pulse shaping technique, broadband OFDM transmission, and beamforming for compact massive MIMO systems. We have shown that using ESPAR can greatly enhance the spectral and energy efficiencies of wireless systems with compact size, lower complexity, and low cost.  
+
+On the other hand, pixel antenna is based on discretizing a continuous radiating structure into a grid of small metals, named as pixels, which are connected through RF switches, so that the radiation pattern can be flexibly adjusted by controlling the switch states. Based on this, we have proposed  {{<font color=red size=+0.5><b>}}*antenna coding*{{</b></font>}} technique, which is to control antenna configuration and characteristics through binary codes representing switches for enhancing wireless systems, and developed the antenna coding optimization in different scenarios including SISO, MIMO, multi-user MIMO systems. We have shown that antenna coding based on pixel antennas is a promising and emerging technology to enable the next-generation wireless systems.
+ 
+Related publications:
+. C. Zhang, {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, H. Li, D. Ma, Z. Han, J. Qian, B. Clerckx, and R. Murch, \"Compact millimeter wave massive MIMO system utilizing ESPAR,\" in IEEE Transactions on Communications (Early Access), 2025. \[[https://ieeexplore.ieee.org/document/10993454/ Link]\]
+. H. Li and {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, \"Antenna coding design based on pixel antennas for multi-user MISO systems,\" 2025 IEEE 26th International Workshop on Signal Processing and Artificial Intelligence for Wireless Communications (SPAWC), Surrey, UK, 2025, pp. 1-5.
+. T. Qiao, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, Z. Han, C. Y. Chiu, Q. S. Cheng, and R. Murch, \"A wideband compact 20-port antenna design developed using electromagnetic information theory for MIMO-OFDM systems,\" 2025 IEEE International Symposium on Antennas and Propagation and ITNC-USNC-URSI Radio Science Meeting, Ottawa, Canada, 2025.
+. T. Qiao, Z. Han, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, C. Y. Chiu, Q. S. Cheng, and R. Murch, \"Performance bounds on the partial gain to Q-factor quotient for loaded N-port antenna systems,\" 2024 IEEE International Symposium on Antennas and Propagation and INC\/USNC-URSI Radio Science Meeting (AP-S\/INC-USNC-URSI), Firenze, Italy, 2024, pp. 2003-2004. \[[https://ieeexplore.ieee.org/document/10687206 Link]\]
+. J. Qian, {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, and R. Murch, \"Including antenna effects into capacity formulations of line-of-sight MIMO channels,\" in IEEE Wireless Communications Letters, vol. 13, no. 9, pp. 2477-2481, Sept. 2024. \[[https://ieeexplore.ieee.org/document/10577446 Link]\]
+. Z. Han, Y. Zhang, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, J. Rao, T. Qiao, J. Jin, Q. Wang, and Ross Murch, \"Characteristic modes for orthogonal beamsteering using ESPAR,\" 2024 IEEE International Symposium on Antennas and Propagation and INC\/USNC-URSI Radio Science Meeting (AP-S\/INC-USNC-URSI), Firenze, Italy, 2024, pp. 585-586. \[[https://ieeexplore.ieee.org/document/10687073 Link]\]
+. Z. Han, S. Wang, J. Jin, Q. Wang, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}} and R. Murch, "Loaded N-port structure for reconfigurable compact MIMO antenna design," 2023 IEEE MTT-S International Microwave Workshop Series on Advanced Materials and Processes for RF and THz Applications (IMWS-AMP), Chengdu, China, 2023, pp. 1-3. \[[https://ieeexplore.ieee.org/document/10381055 Link]\]
+. Z. Han, {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, Y. Zhang, S. Tang, C. Y. Chiu, and R. Murch, \"Using loaded N-port structures to achieve the continuous-space electromagnetic channel capacity bound,\" in IEEE Transactions on Wireless Communications, vol. 22, no. 11, pp. 7592-7605, Nov. 2023. \[[https://ieeexplore.ieee.org/document/10068425 Link]\]
+. Z. Han, {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, Y. Zhang, S. Tang, C. Y. Chiu, and R. Murch, \"Spectrally efficient pulse shaping for beamspace space shift keying in single-RF ESPAR systems,\" in IEEE Transactions on Vehicular Technology, vol. 72, no. 8, pp. 10548-10560, Aug. 2023. \[[https://ieeexplore.ieee.org/document/10081943 Link]\]
+. C. Zhang, {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, Z. Han, and R. Murch, \"Analog beamforming using ESPAR for single-RF precoding systems,\" in IEEE Transactions on Wireless Communications, vol. 22, no. 7, pp. 4387-4400, July 2023. \[[https://ieeexplore.ieee.org/document/9969659 Link]\]
+. Z. Han, {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, Y. Zhang, S. Tang, C. Y. Chiu, and R. Murch, \"Single-RF MIMO-OFDM using ESPAR,\" in IEEE Transactions on Vehicular Technology, vol. 72, no. 5, pp. 6080-6089, May 2023. \[[https://ieeexplore.ieee.org/document/9993759 Link]\]
+. Z. Han, {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, Y. Zhang, C. Y. Chiu, and R. Murch, \"A pattern correlation decomposition method for analysis of ESPAR in single-RF MIMO systems,\" in IEEE Transactions on Wireless Communications, vol. 21, no. 7, pp. 4654-4668, July 2022. \[[https://ieeexplore.ieee.org/document/9640466 Link]\]
+. Z. Han, Y. Zhang, {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, Y. Li, C. Y. Chiu, and R. Murch, \"Characteristic mode analysis of ESPAR for single-RF MIMO systems,\" in IEEE Transactions on Wireless Communications, vol. 20, no. 4, pp. 2353-2367, April 2021. \[[https://ieeexplore.ieee.org/document/9286866 Link]\]
+
+
+== Integrated Sensing and Communications Utilizing Frequency Diverse Antennas
+
+~~~
+{}{img_left}{photos/imaging.jpg}{alt text}{}{180px}
+~~~
+
+Integrated sensing and communications plays an important role in the 6G communication. However, conventional sensing technologies based on synthetic aperture radar or phased array methods generally rely on mechanical or electrical scanning to collect the sensing data, which results in low sensing speed and high complexity. Therefore, a sensing method with low complexity while maintaining high resolution is desired. 
+
+To achieve this goal, we have developed an efficient sensing method based on MIMO frequency diverse antennas. Frequency diverse antennas provide diverse radiation patterns at different frequencies, e.g. the beam can be steered by sweeping frequency. Hence, using frequency diverse antennas can collect sensing data simply by sweeping frequency without mechanical moving or active circuit switching. In addition, combining frequency diverse antennas with MIMO technique can provides additional degrees of freedom and high spatial resolution to further enhance sensing. We have shown that using MIMO frequency diverse antennas provides a higher sensing capacity and enhanced sensing quality.  
+
+Related publications:
+. D. Ma, {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, H. Zhou, C. Zhang, Q. Zhang and R. Murch, \"Integrated sensing, identification, and backscatter Communication system utilizing inverse scattering approach,\" in IEEE Transactions on Antennas and Propagation, vol. 73, no. 8, pp. 5877-5889, Aug. 2025. \[[https://ieeexplore.ieee.org/document/10945553/ Link]\]
+. D. Ma, A. Dubey, Z. Xu, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, Q. Zhang, and R. Murch, \"Reducing the number of measurement nodes in RF imaging using antenna pattern diversity with an extended Rytov approximation,\" in IEEE Transactions on Antennas and Propagation, vol. 71, no. 11, pp. 8881-8893, Nov. 2023. \[[https://ieeexplore.ieee.org/document/10241308 Link]\]
+. D. Ma, Y. Zhang, A. Dubey, S. Deshmukh, {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, Q. Zhang*, and R. Murch, \"Millimeter-wave 3D imaging using leaky-wave antennas and an extended Rytov approximation in a frequency-diverse MIMO system,\" in IEEE Transactions on Microwave Theory and Techniques, vol. 71, no. 4, pp. 1809-1825, April 2023. \[[https://ieeexplore.ieee.org/document/9967760 Link]\]
+. D. Ma, J. Zhong, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, A. Dubey, C. Zhang, Q. Zhang, and R. Murch, \"Single-shot frequency-diverse near-field imaging using high-scanning-rate leaky-wave antenna,\" in IEEE Transactions on Microwave Theory and Techniques, vol. 69, no. 7, pp. 3399-3412, July 2021. \[[https://ieeexplore.ieee.org/document/9385900 Link]\]
+
+
+== MIMO Ambient Backscatter Communication System
+
+~~~
+{}{img_left}{photos/AMBC.jpg}{alt text}{}{180px}
+~~~
+
+Ambient backscatter communication (AmBC) is a novel technology for implementing battery-free wireless communications. It enables backscatter devices to transmit information to near-by receivers using ambient RF signals. Thus, AmBC has the benefit that it does not need any dedicated RF source and frequency allocation. However, the key issue in AmBC is the low power level and the uncertainty of the ambient RF signal, making signal detection difficult. 
+
+To solve this issue, we have proposed multi-antenna Tag and multi-antenna Reader AmBC systems, i.e. MIMO AmBC systems, and develop efficient signal detection algorithms based on average power mechanism and ratio detector to overcome the weakness and uncertainty of the ambient RF signal. Based on the proposed MIMO AmBC systems, we have also applied coherent and non-coherent orthogonal space-time codes to enhance the signal detection performance, and we have shown that the bit error rate can be effectively decreased by using MIMO AmBC system with more Tag or Reader antennas, making AmBC promising for battery-free wireless communications. 
+
+Related publications:
+. W. Liu, {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, D. H. K. Tsang, R. K. Mallik, and R. Murch, \"An efficient ratio detector for ambient backscatter communication,\" in IEEE Transactions on Wireless Communications, vol. 23, no. 6, pp. 5908-5921, June 2024. \[[https://ieeexplore.ieee.org/document/10311536 Link]\]
+. W. Liu, {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, D. H. K. Tsang, and R. Murch, \"MIMO ambient backscatter communication: capacity maximization and beamforming optimization,\" in IEEE Transactions on Vehicular Technology, vol. 72, no. 12, pp. 15829-15843, Dec. 2023. \[[https://ieeexplore.ieee.org/document/10171390 Link]\]
+. W. Liu, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, C. Zhang, D. H. K. Tsang, and R. Murch, \"Optimal antenna selection and time sharing in RF-powered cognitive networks with ambient backscatter communication,\" 2023 IEEE 97th Vehicular Technology Conference (VTC2023-Spring), Florence, Italy, 2023, pp. 1-6. \[[https://ieeexplore.ieee.org/document/10200111 Link]\]
+ . W. Liu, {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, D. H. K. Tsang, and R. Murch, \"Enhancing ambient backscatter communication utilizing coherent and non-coherent space-time codes,\" in IEEE Transactions on Wireless Communications, vol. 20, no. 10, pp. 6884-6897, Oct. 2021. \[[https://ieeexplore.ieee.org/document/9430725 Link]\]
+
+
+== Nonlinear Multi-Sine MIMO Wireless Power Transfer System
+
+~~~
+{}{img_left}{photos/WPT.jpg}{alt text}{}{180px}
+~~~
+
+Wireless power transfer (WPT) uses rectenna to harvest RF energy from a dedicated source, instead of ambient source. WPT is related to ambient RF energy harvesting, but it is more reliable, controllable, user-friendly, and cost-effective to energize massive devices of Internet-of-Things. In addition, it supports simultaneous information and power transfer to enhance both spectrum and energy efficiency. However, the key challenge of WPT is to increase the power transfer efficiency. 
+
+To overcome this challenge, we have proposed the nonlinear multi-sine MIMO WPT systems to enhance the transfer efficiency and developed joint waveform, beamforming, and DC/RF combining optimization algorithm. We have shown that the nonlinear multi-sine MIMO WPT with optimized waveform and beamforming can greatly improve the transfer efficiency. In addition, we have prototyped a WPT system with distributed antennas using antenna and frequency selections and a limited feedback WPT system using adaptive waveform and beamforming, to experimentally demonstrate the enhanced transfer efficiency and the capability and promise of WPT.
+
+Related publications:
+. M. Kumar, C. Song, Y. Huang, J. Zhou, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, P. Mitcheson, Y. Ding, G. Goussetis, and M. Wagih, \"From MHz to mmWaves: a review of application-driven UK-based wireless power research,\" in IEEE Microwave Magazine, vol. 26, no. 7, pp. 78-92, July 2025. \[[https://ieeexplore.ieee.org/document/11023982/ Link]\]
+. T. Zhan, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}} and D. H. K. Tsang, \"Machine learning based accurate modeling of rectenna nonlinear behavior,\" 2025 IEEE Wireless Power Technology Conference and Expo (WPTCE), Rome, Italy, 2025, pp. 1-6. \[[https://ieeexplore.ieee.org/document/11062091 Link]\]
+. {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, J. Kim, and B. Clerckx, \"Closed-loop wireless power transfer with adaptive waveform and beamforming: design, prototype, and experiment,\" in IEEE Journal of Microwaves, vol. 3, no. 1, pp. 29-42, Jan. 2023. \[[https://ieeexplore.ieee.org/document/9994234 Link]\]
+. {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, J. Kim, C. Song, and B. Clerckx, \"Wireless power transfer with distributed antennas: system design, prototype, and experiments,\" in IEEE Transactions on Industrial Electronics, vol. 68, no. 11, pp. 10868-10878, Nov. 2021. \[[https://ieeexplore.ieee.org/document/9257169 Link]\]
+. {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}} and B. Clerckx, \"Joint waveform and beamforming optimization for MIMO wireless power transfer,\" in IEEE Transactions on Communications, vol. 69, no. 8, pp. 5441-5455, Aug. 2021. \[[https://ieeexplore.ieee.org/document/9411899 Link]\]
+. {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}} and B. Clerckx, \"Beamforming optimization for MIMO wireless power transfer with nonlinear energy harvesting: RF combining versus DC combining,\" in IEEE Transactions on Wireless Communications, vol. 20, no. 1, pp. 199-213, Jan. 2021. \[[https://ieeexplore.ieee.org/document/9204454 Link]\]
+
+
+== Pixel Antenna Design and Optimization
+
+~~~
+{}{img_left}{photos/pixel antenna.jpg}{alt text}{}{180px}
+~~~
+
+Pixel antennas are a flexible antenna design approach. The concept of pixel antenna is to discretize a continuous radiating structure with arbitrary shape and size into a grid of small metals, named as pixels. Adjacent pixels can be connected through either hardwires or RF switches.  Given a pixelized structure, different antenna characteristics, including operating frequency, radiation pattern, and polarizations, can be obtained by changing the connection states between them. Therefore, pixel antennas can be used to either implement highly reconfigurable antennas (by using RF switches) or flexibly design and optimize antenna (by using hardwire). 
+
+Inspired by this, we have proposed the pattern-reconfigurable pixel antennas, which can reconfigure the radiation pattern to implement full-space single- or multibeam steering. In addition to reconfigurable pixel antenna designs, we have designed MIMO antennas with pixelated surface, which provide low mutual coupling and spatial correlation to maximize the ergodic capacity, and defected ground structures with pixelated grid, which suppress cross-polarization and achieve circular polarization. Furthermore, we have investigated the pixel antenna optimization, which is essentially a binary optimization problem, and proposed different algorithms, including successive Exhaustive Boolean optimization, mixed integer linear programming, N-port characteristic mode analysis, perturbation sensitivity analysis, and the adjoint method combined with the method of moving asymptote, to efficiently optimize the pixel antenna.
+
+Related publications:
+. Z. Ming, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, and R. Murch, \"A 2-bit phase reconfigurable aperture coupled pixel antenna,\" 2024 IEEE International Symposium on Antennas and Propagation and INC\/USNC-URSI Radio Science Meeting (AP-S\/INC-USNC-URSI), Firenze, Italy, 2024, pp. 143-144. \[[https://ieeexplore.ieee.org/document/10686614 Link]\]
+. T. Qiao, F. Jiang, {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, Z. Zhang, M. Li, C. Y. Chiu, Q. S. Cheng*, and R. Murch, \"Pixel antenna optimization using the adjoint method and the method of moving asymptotes,\" in IEEE Transactions on Antennas and Propagation, vol. 71, no. 3, pp. 2873-2878, March 2023. \[[https://ieeexplore.ieee.org/document/10035928 Link]\]
+. F. Jiang, Z. Zhang, M. Li, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, C. Y. Chiu, Y. Zhang, Q. S. Cheng, and R. Murch, \"Multi-port pixel antenna optimization using characteristic mode analysis and sequential feeding port search,\" in IEEE Transactions on Antennas and Propagation, vol. 70, no. 10, pp. 9160-9174, Oct. 2022. \[[https://ieeexplore.ieee.org/document/9810821 Link]\]
+. Y. Zhang, Z. Han, S. Tang, J. Rao, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, M. Li, C. Y. Chiu, and R. Murch, \"A low-profile microstrip vertically polarized endfire antenna with 360$^{\circ}$  beam-scanning and high beam-shaping capability,\" in IEEE Transactions on Antennas and Propagation, vol. 70, no. 9, pp. 7691-7702, Sept. 2022. \[[https://ieeexplore.ieee.org/document/9769906 Link]\]
+. Y. Zhang, Z. Han, S. Tang, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, C. Y. Chiu, and R. Murch, \"A highly pattern-reconfigurable planar antenna with 360$^{\circ}$ single- and multi-beam steering,\" in IEEE Transactions on Antennas and Propagation, vol. 70, no. 8, pp. 6490-6504, Aug. 2022. \[[https://ieeexplore.ieee.org/document/9743796 Link]\]
+. F. Jiang, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, C. Y. Chiu, Z. Zhang, Y. Zhang, Q. S. Cheng, and R. Murch, \"Pixel antenna optimization based on perturbation sensitivity analysis,\" in IEEE Transactions on Antennas and Propagation, vol. 70, no. 1, pp. 472-486, Jan. 2022. \[[https://ieeexplore.ieee.org/document/9491941 Link]\]
+ . Y. Zhang, {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, Z. Han, C. Y. Chiu, and R. Murch, \"Compact MIMO systems utilizing a pixelated surface: capacity maximization,\" in IEEE Transactions on Vehicular Technology, vol. 70, no. 9, pp. 8453-8467, Sept. 2021. \[[https://ieeexplore.ieee.org/document/9506812 Link]\]
+. Y. Zhang, Z. Han, {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, C. Y. Chiu, and R. Murch, \"Polarization enhancement of microstrip antennas by asymmetric and symmetric grid defected ground structures,\" in IEEE Open Journal of Antennas and Propagation, vol. 1, pp. 215-223, 2020. \[[https://ieeexplore.ieee.org/document/9096388 Link]\]
+. F. Jiang, C. Y. Chiu, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, Q. S. Cheng, and R. Murch, \"Pixel antenna optimization using N-port characteristic mode analysis,\" in IEEE Transactions on Antennas and Propagation, vol. 68, no. 5, pp. 3336-3347, May 2020. \[[https://ieeexplore.ieee.org/document/8952871 Link]\]
+. {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, C. Y. Chiu, and R. D. Murch, \"Optimization of 2.45-GHz pixel rectenna for wireless power transmission using mixed integer linear programming,\" 2017 IEEE International Symposium on Antennas and Propagation & USNC/URSI National Radio Science Meeting, San Diego, CA, USA, 2017, pp. 351-352. \[[https://ieeexplore.ieee.org/document/8072218 Link]\]
+. {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, Y. Sun, S. Song, D. P. Palomar, and R. D. Murch, \"Successive Boolean optimization of planar pixel antennas,\" in IEEE Transactions on Antennas and Propagation, vol. 65, no. 2, pp. 920-925, Feb. 2017. \[[https://ieeexplore.ieee.org/document/7762757 Link]\]
+
+
+== Liquid Antenna Design
+
+~~~
+{}{img_left}{photos/liquid.jpg}{alt text}{}{180px}
+~~~
+
+The concept of liquid antennas stems from the pursuit of highly reconfigurable and versatile wireless systems. Traditional solid-metal antennas are fixed in their shape and properties once manufactured. which limits their ability to adapt to changing conditions, such as different frequencies or radiation patterns. Liquid antennas address this by using conductive fluids (e.g., saltwater, liquid metals like Galinstan, or mercury) as the radiating element. The key idea is that the physical properties of a liquid—its shape, length, and position—can be easily manipulated using various methods (e.g., pumps, electric fields, magnetic fields, or mechanical actuators), leading to dynamic control over the antenna's performance. Liquid antennas are also the key technology to enable the fluid antenna system which is an emerging wireless system. 
+
+Inspired by this, we have proposed and designed gravitational liquid dielectric resonator antennas to achieve passive beamforming which is invariant to the change of position and rotation of the antenna. Furthermore, we have proposed using liquid crystal to implement a flexible reconfigurable antenna to tune the operating frequency. These liquid antennas enable the promise of reconfigurable and versatile wireless systems. 
+ 
+Related publications:
+. X. Yang, X. Yu, M. Liu, K. Kurskiy, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, and Y. Huang, \"A passive 3D beam-steering gravitational liquid dielectric resonator antenna with polarization diversity,\" in IEEE Transactions on Antennas and Propagation, vol. 73, no. 7, pp. 4192-4207, July 2025. \[[https://ieeexplore.ieee.org/document/10909310/ Link]\]
+. X. Yang, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, and Y. Huang, \"A passive 3D beam-steering gravitational liquid dielectric resonator antenna,\" 2024 IEEE 12th Asia-Pacific Conference on Antennas and Propagation (APCAP), Nanjing, China, 2024, pp. 1-2. \[[https://ieeexplore.ieee.org/document/10880915 Link]\]
+. L. Yang, Y. Zhang, C. Y. Chiu, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, and R. Murch, \"Investigation of a flexible reconfigurable antenna using liquid crystal,\" 2019 8th Asia-Pacific Conference on Antennas and Propagation (APCAP), Incheon, Korea (South), 2019, pp. 430-431. \[[https://ieeexplore.ieee.org/document/9472120 Link]\]
+ 
+== MIMO Antenna Design
+
+~~~
+{}{img_left}{photos/MIMO antenna.jpg}{alt text}{}{180px}
+~~~
+
+MIMO communications, utilizing multiple antennas at transmitter and receiver, are the dominant technology is modern wireless communications. However, the mutual coupling between multiple antennas will degrade the MIMO system performance. Thus, the key challenge in designing MIMO antennas is to ensure that the multiple antennas have low mutual coupling and high isolation. 
+
+To overcome this challenge, we have proposed using rotation symmetry among multiple antennas to exploit the phase and polarization diversity to reduce the mutual coupling. We have also leveraged theory of characteristic modes to analyze, design, and prototype massive MIMO antennas with low mutual coupling. In addition, we have utilized the space mapping technique to efficiently design and optimize the decoupling network for MIMO antenna. We have shown by measurement that these techniques can effectively suppress the mutual coupling to achieve good isolations. 
+
+Related publications:
+. F. Jiang, Z. Zhang, Q. S. Cheng, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, C. Y. Chiu, and R. Murch, \"An efficient optimization scheme for MIMO antenna decoupling networks using space mapping techniques,\" in IEEE Journal on Multiscale and Multiphysics Computational Techniques, vol. 6, pp. 56-61, 2021. \[[https://ieeexplore.ieee.org/document/9428597 Link]\]
+. C. Y. Chiu, {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, B. K. Lau, and R. Murch, \"The design of a trimodal broadside antenna element for compact massive MIMO arrays: utilizing the theory of characteristic modes,\" in IEEE Antennas and Propagation Magazine, vol. 62, no. 6, pp. 46-61, Dec. 2020. \[[https://ieeexplore.ieee.org/document/8946874 Link]\]
+. C. Y. Chiu, F. Xu, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, and R. D. Murch, \"Mutual coupling reduction of rotationally symmetric multi-port antennas,\" in IEEE Transactions on Antennas and Propagation, vol. 66, no. 10, pp. 5013-5021, Oct. 2018. \[[https://ieeexplore.ieee.org/abstract/document/8408847 Link]\] 
+. C. Y. Chiu, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, and R. D. Murch, \"Dual-band antenna pair for MIMO WiFi compact mobile terminals,\" 2016 IEEE International Symposium on Antennas and Propagation (APSURSI), Fajardo, PR, USA, 2016, pp. 65-66. \[[https://ieeexplore.ieee.org/document/7695741 Link]\]
+ 
+
+== Transparent Antenna Design
+
+~~~
+{}{img_left}{photos/transparent.jpg}{alt text}{}{180px}
+~~~
+
+Transparent antenna design is based on constructing antennas by optically transparent materials without obstructing the view.  Transparent antennas can be used in display electronics, smart windows/glass, and solar energy harvesting. However, the key challenge is to find the optimal material and pattern that provides sufficient conductivity for efficient radiation while maintaining the required level of transparency.
+
+To that end, we have proposed using conductive copper meshes to construct transparent antennas. Conductive copper meshes are very thin metal grids or patterns, where the gaps between the lines are large enough to allow light to pass through, so that are invisible to the naked eye from a distance. Using conductive copper meshed, we have proposed dual-band\/broadband\/multiport transparent antennas and also integrated with the solar cell for hybrid RF and solar energy harvesting. By measurement, we have shown that using conductive copper meshes can achieve good radiation efficiency and transparency simultaneously. 
+
+Related publications:
+. Y. Zhang, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, C. Y. Chiu, and R. Murch, \"A broadband transparent antenna integrated with an indoor solar cell for WLAN applications,\" 2020 IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting, Montreal, QC, Canada, 2020, pp. 437-438. \[[https://ieeexplore.ieee.org/document/9329530 Link]\] 
+. Y. Zhang, {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, C. Y. Chiu, and R. Murch, \"Hybrid RF-solar energy harvesting systems utilizing transparent multiport micro-meshed antenna,\" in IEEE Transactions on Microwave Theory and Techniques, vol. 67, no. 11, pp. 4534-4546, Nov. 2019. \[[https://ieeexplore.ieee.org/document/8790988 Link]\]
+. Y. Zhang, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, C. Y. Chiu, and R. D. Murch, \"A dual-band transparent coplanar patch antenna for WLAN systems,\" 2018 IEEE International Symposium on Antennas and Propagation & USNC/URSI National Radio Science Meeting, Boston, MA, USA, 2018, pp. 465-466. \[[https://ieeexplore.ieee.org/document/8609416 Link]\]
+. C. Y. Chiu, Y. Zhang, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, and R. D. Murch, \"Co-design of antenna and illumination systems,\" 2018 IEEE International Symposium on Antennas and Propagation & USNC/URSI National Radio Science Meeting, Boston, MA, USA, 2018, pp. 1675-1676. \[[https://ieeexplore.ieee.org/document/8608554 Link]\] 
+. C. Y. Chiu, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, and R. D. Murch, \"Transparent dual-band antenna for smart watch applications,\" 2017 IEEE International Symposium on Antennas and Propagation & USNC/URSI National Radio Science Meeting, San Diego, CA, USA, 2017, pp. 191-192. \[[https://ieeexplore.ieee.org/document/8072138 Link]\]
+
+
+== Multiport Rectenna Design for Ambient RF Energy Harvesting
+
+~~~
+{}{img_left}{photos/rectenna.jpg}{alt text}{}{180px}
+~~~
+  
+Ambient RF energy harvesting uses rectenna to harvest RF energy in ambient environment to energize massive devices of Internet-of-Things. However, the key challenge is that the low RF power density of the ambient RF energy limits the power available for harvesting. 
+
+To address this limitation, we have proposed and developed multiport rectenna to enhance harvested RF energy. We have performed analysis, design, and prototyping of various kinds of multiport rectennas and shown by measurement that using multiport rectenna can linearly increase the harvested RF energy compared to traditional single-port rectenna of similar size. Furthermore, we have proposed to combine multiport rectenna with multi-band\/broadband\/dual-polarized rectenna to jointly leverage the spatial, frequency, and polarization domains to maximize the harvested ambient RF energy.  
+
+Related publications:
+. M. T. Chiu, C. Y. Chiu, C. Ng, L.O. Wong, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, and R. Murch, \"An ambient RF powered wireless sensor system,\" in IEEE Open Journal of Antennas and Propagation, vol. 3, pp. 1382-1393, 2022. \[[https://ieeexplore.ieee.org/abstract/document/9964423 Link]\] 
+. C. Song, P. Lu, and {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, \"Highly efficient omnidirectional integrated multiband wireless energy harvesters for compact sensor nodes of internet-of-things,\" in IEEE Transactions on Industrial Electronics, vol. 68, no. 9, pp. 8128-8140, Sept. 2021. \[[https://ieeexplore.ieee.org/document/9145795 Link]\]
+. {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, Y. Zhang, C. Y. Chiu and R. Murch, \"Directional multiport ambient RF energy-harvesting system for the internet of things,\" in IEEE Internet of Things Journal, vol. 8, no. 7, pp. 5850-5865, April 2021. \[[https://ieeexplore.ieee.org/document/9233414 Link]\]
+. {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, Y. Zhang, C. Y. Chiu, and R. Murch, \"A triple-band high-gain multibeam ambient RF energy harvesting system utilizing hybrid combining,\" in IEEE Transactions on Industrial Electronics, vol. 67, no. 11, pp. 9215-9226, Nov. 2020. \[[https://ieeexplore.ieee.org/document/8902180 Link]\]
+. R. Murch, C. Y. Chiu, and {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, \"Harnessing ambient RF waves for novel applications,\" 2020 IEEE Asia-Pacific Microwave Conference (APMC), Hong Kong, Hong Kong, 2020, pp. 42-44. \[[https://ieeexplore.ieee.org/document/9331733 Link]\]
+. Z. Zeng, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, B. Wang, J. E. Lopez, R. Murch, and E. S. Sinencio, \"An ultra-low-power management circuit with output bootstrapping and reverse leakage reduction function for RF energy harvesting,\" 2020 IEEE/MTT-S International Microwave Symposium (IMS), Los Angeles, CA, USA, 2020, pp. 1059-1062. \[[https://ieeexplore.ieee.org/document/9224098 Link]\]
+. Z. Zeng, {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, X. Zhong, X. Li, C. Y. Tsui, A. Bermak, R. Murch, and E. S. Sinencio, \"Design of sub-GHz reconfigurable RF energy harvester from -22 to 4 dBm with 99.8% peak MPPT efficiency,\" in IEEE Journal of Solid-State Circuits, vol. 54, no. 9, pp. 2601-2613, Sept. 2019. \[[https://ieeexplore.ieee.org/document/8742574 Link]\]
+. {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, Y. Zhang, C. Y. Chiu, and R. Murch, \"An ambient RF energy harvesting system where the number of antenna ports is dependent on frequency,\" in IEEE Transactions on Microwave Theory and Techniques, vol. 67, no. 9, pp. 3821-3832, Sept. 2019. \[[https://ieeexplore.ieee.org/document/8685792 Link]\]
+. {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, Y. Zhang, C. Y. Chiu, and R. Murch, \"Multiport rectennas for ambient RF energy harvesting,\" 2019 IEEE MTT-S International Wireless Symposium (IWS), Guangzhou, China, 2019, pp. 1-3. \[[https://ieeexplore.ieee.org/document/8803963 Link]\]
+. {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, Y. Zhang, C. Y. Chiu, and R. D. Murch, \"A compact quad-port dual-polarized dipole rectenna for ambient RF energy harvesting,\" 12th European Conference on Antennas and Propagation (EuCAP 2018), London, UK, 2018, pp. 1-4. \[[https://ieeexplore.ieee.org/document/8568737 Link]\]
+. {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, C. Y. Chiu and R. D. Murch, \"Multiport pixel rectenna for ambient RF energy harvesting,\" in IEEE Transactions on Antennas and Propagation, vol. 66, no. 2, pp. 644-656, Feb. 2018. \[[https://ieeexplore.ieee.org/document/8234553 Link]\]
+. {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}}, C. Y. Chiu, and R. D. Murch, \"A dual-port triple-band L-probe microstrip patch rectenna for ambient RF energy harvesting,\" in IEEE Antennas Wireless Propagation Letters, vol. 16, pp. 3071-3074, 2017. \[[https://ieeexplore.ieee.org/document/8063413 Link]\]
+. {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, C. Y. Chiu, and R. D. Murch, \"A broadband L-probe microstrip patch rectenna for ambient RF energy harvesting,\" 2017 IEEE International Symposium on Antennas and Propagation & USNC/URSI National Radio Science Meeting, San Diego, CA, USA, 2017, pp. 2037-2038. \[[https://ieeexplore.ieee.org/document/8073061 Link]\]
+. {{<font color=darkred size=+0.5><b>}}*S. Shen\**{{</b></font>}} and R. D. Murch, \"Impedance matching for compact multiple antenna systems in random RF fields,\" in IEEE Transactions on Antennas and Propagation, vol. 64, no. 2, pp. 820-825, Feb. 2016. \[[https://ieeexplore.ieee.org/document/7360138 Link]\]
+. {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}}, C. Y. Chiu, and R. D. Murch, \"Multi-port ladder impedance matching for compact MIMO communication systems,\" 2016 IEEE International Symposium on Antennas and Propagation (APSURSI), Fajardo, PR, USA, 2016, pp. 197-198. \[[https://ieeexplore.ieee.org/document/7695807 Link]\]
+. {{<font color=darkred size=+0.5><b>}}*S. Shen*{{</b></font>}} and R. D. Murch, \"Designing dual-port pixel antenna for ambient RF energy harvesting using genetic algorithm,\" 2015 IEEE International Symposium on Antennas and Propagation & USNC/URSI National Radio Science Meeting, Vancouver, BC, Canada, 2015, pp. 1286-1287. \[[https://ieeexplore.ieee.org/document/7305032/ Link]\]
